@@ -1,0 +1,34 @@
+body, h1, h2, h3, h4, h5, h6{
+	color: white;
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+body{
+	background-color: #363636
+}
+row{
+	margin: 0 auto;
+}
+
+#stack1, #stack2, #stack3{
+	margin-top: 20px;
+	margin-bottom: 20px:
+	padding: 30px;
+}
+
+
+
+#stack2{
+	background-color: #5c5c5c;
+}
+
+ul{
+	list-style: NONE;
+}
+
+#stack3{
+	background: #9c9c9c;
+}
+
+#stack3 h4{
+	color: #363636;
+}
